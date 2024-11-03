@@ -35,9 +35,16 @@ Visual Representation:
 Analysis table:  
 | [Category based total pizza ordered](docs/Intermediate_1_Category_based_total_pizza_ordered.xlsx) | [Hourly order distribution a day](docs/Intermediate_2_hourly_order_distribution_a_day.xlsx) | [Number of pizza in each category](docs/Intermediate_3_Number_of_pizza_in_each_category.xlsx) | [Pizza ordered per month](docs/Intermediate_4_Pizza_ordered_per_month.xlsx) | [Top 3 pizza based on revenue](docs/Intermediate_5_Top_3_pizza_based_on_revenue.xlsx) | [Top 5 ordered pizza](docs/Intermediate_6_Top_5_ordered_pizza.xlsx) |  
 
-### Advance:  
+### Advance:
 [Advance SQL Queries](Queries/Advance_SQL_query.sql)  
+
 Visual Representation:  
+| [Percentage distribution of each pizza category in total revenue](visuals/Advance_1_Percentage_distribution_of_each_pizza_category_in_total_revenue.png) | [Cumulative revenue over month](visuals/Advance_2_cummulative_revenue_over_month.png) | [Top 3 pizza names in each category based on revenue](visuals/Advance_3_Top_3_pizza_name_in_each_category_based_On_revenue.png) |  
+
+Analysis table:  
+| [Percentage distribution of each pizza category in total revenue](docs/Advance_1_Percentage_distribution_of_each_pizza_category_in_total_revenue.xlsx) | [Cumulative revenue over month](docs/Advance_2_cummulative_revenue_over_month.xlsx) | [Top 3 pizza names in each category based on revenue](docs/Advance_3_Top_3_pizza_name_in_each_category_based_On_revenue.xlsx) |
+
+
 
 
 
