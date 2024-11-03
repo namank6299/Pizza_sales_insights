@@ -28,10 +28,10 @@ The question addressed under this project has been classified under three catego
 
 ### Intermediate:
 [Intermediate SQL Queries](Queries/Intermediate_SQL_query.sql)  
-Visual Representation:
-| [Category wise total quantity ordered](visuals/Intermediate_1_Category_wise_total_quantity_ordered.png) | [Hourly distribution of orders a day](visuals/Intermediate_2_Hourly_distribution_of_orders_a_day.png) | [Pizza count in each category](visuals/Intermediate_3_Pizza_count_In_each_category.png) | [Pizza ordered per month](visuals/Intermediate_4_Pizza_ordered_per_month.png) | [Top 3 pizza based on revenue](visuals/Intermediate_5_Top_3_pizza_based_on_revenue.png) | [Top 5 ordered pizza](visuals/Intermediate_6_Top_5_ordered_pizza.png) |
-Analysis table:
-| "Category based total pizza ordered" | "Hourly order distribution a day" | "Number of pizza in each category" | "Pizza ordered per month" | "Top 3 pizza based on revenue" | "Top 5 ordered pizza" |
+Visual Representation:  
+| [Category wise total quantity ordered](visuals/Intermediate_1_Category_wise_total_quantity_ordered.png) | [Hourly distribution of orders a day](visuals/Intermediate_2_Hourly_distribution_of_orders_a_day.png) | [Pizza count in each category](visuals/Intermediate_3_Pizza_count_In_each_category.png) | [Pizza ordered per month](visuals/Intermediate_4_Pizza_ordered_per_month.png) | [Top 3 pizza based on revenue](visuals/Intermediate_5_Top_3_pizza_based_on_revenue.png) | [Top 5 ordered pizza](visuals/Intermediate_6_Top_5_ordered_pizza.png) |  
+
+Analysis table:  
 | [Category based total pizza ordered](docs/Intermediate_1_Category_based_total_pizza_ordered.xlsx) | [Hourly order distribution a day](docs/Intermediate_2_hourly_order_distribution_a_day.xlsx) | [Number of pizza in each category](docs/Intermediate_3_Number_of_pizza_in_each_category.xlsx) | [Pizza ordered per month](docs/Intermediate_4_Pizza_ordered_per_month.xlsx) | [Top 3 pizza based on revenue](docs/Intermediate_5_Top_3_pizza_based_on_revenue.xlsx) | [Top 5 ordered pizza](docs/Intermediate_6_Top_5_ordered_pizza.xlsx) |
 
 
