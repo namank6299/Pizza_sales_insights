@@ -24,7 +24,7 @@ The question addressed under this project has been classified under three catego
 ### Basic:  
 [Basic SQL Queries](Queries/Basic_SQL_query.sql)  
 |----------------|----------|----------|----------|----------|
-|[1_Total_orders.png](Visuals/1_Total_orders.png) |       | Column 2 | Column 3 |
+|[1_Total_orders.png](visuals/1_Total_orders.png) |       | Column 2 | Column 3 |
 
 
 
