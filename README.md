@@ -22,5 +22,5 @@ The question addressed under this project has been classified under three catego
 
 ## Queries & Results:
 ### Basic:  
-[Basic Queries](Queries/basic_query.sql)  
+[Basic SQL Queries](Queries/Basic_SQL_query.sql)  
 
