@@ -23,8 +23,8 @@ The question addressed under this project has been classified under three catego
 ## Queries & Results:
 ### Basic:  
 [Basic SQL Queries](Queries/Basic_SQL_query.sql)  
-|----------------|----------|----------|----------|----------|
-|[1_Total_orders.png](visuals/1_Total_orders.png) |       | Column 2 | Column 3 |
+
+|[1_Total_orders.png](visuals/1_Total_orders.png) |2_Total_revenue.png](visuals/2_Total_revenue.png)|3_Highest_priced_pizza.png](visuals/3_Highest_priced_pizza.png)|4_Pizza_size_as_per_max_ordered.png](visuals/4_Pizza_size_as_per_max_ordered.png)|
 
 
 
