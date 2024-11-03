@@ -16,7 +16,8 @@ For a detailed view of the schema, including the columns in each table, please r
 ## Process  
 The question addressed under this project has been classified under three category, as i have prepared the visual chart while leveraging the benefit of MS Excel. I include the insights along with the analysis data: 
 
-*Basic*:
-*Intermediate*  
-*Advance*  
+1. **Basic:**
+   
+3. **Intermediate:**
+4. **Advace:**
 
