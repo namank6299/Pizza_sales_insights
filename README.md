@@ -21,4 +21,6 @@ The question addressed under this project has been classified under three catego
 4. **Advace:**
 
 ## Queries & Results:
-### Basic:
+### Basic:  
+[Basic Queries](Queries/basic_query.sql)  
+
